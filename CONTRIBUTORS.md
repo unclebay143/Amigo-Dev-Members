@@ -1,4 +1,4 @@
 
 # CONTRIBUTORS
 
-- [@Ayodele Samuel Adebayo(unclebay) - ](https://github.com/unclebay143)
+- [@Ayodele Samuel Adebayo - ADCF](https://github.com/unclebay143)
