@@ -9,12 +9,9 @@ Read below to see how you can join an existing project or create your own.
 We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. Many students have gained real world experience "working in teams" by working on these projects.
 
 ## A Guide to Get Started
+1. Read the wonderful gitStarted Guide by GitHub [Contributing to a forked repositiory](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
-1. Read the wonderful [_gitStarted Guide_](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student [@wanraitelli](https://github.com/wanraitelli).
-
-   Check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/.
-
-2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the Button "Fork".
+2. On the [GitHub page for this repository](https://github.com/unclebay143/Amigo-Dev-Members), click on the Button "Fork".
 
    ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
@@ -36,7 +33,7 @@ We don't care if you break things. This is a playground and we encourage failing
 4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
+    git remote add upstream https://github.com/unclebay143/Amigo-Dev-Members.git
     git pull upstream master
     ```
     
