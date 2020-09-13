@@ -37,7 +37,7 @@ We don't care if you break things. This is a playground and we encourage failing
     git pull upstream master
     ```
     
-    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
+    If you run into a **merge conflict**, you have to resolve the conflict, either making a pull from upstream master or reaching out to the community on whatsapp group. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
     
 5. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
