@@ -18,3 +18,5 @@
 - [@ISIAKA ABDULAHI](https://github.com/isiakaabd)
 <!--MaureenAnyanwu's Contribution-->
 - [@Maureen Anyanwu](https://github.com/maura-dev)
+<!--ArimoroOlamilekan Contribution-->
+- [@Arimoro Olamilekan](https://github.com/Lexitar32)
