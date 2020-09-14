@@ -16,3 +16,5 @@
 - [@Ziyad Tareq](https://github.com/ZeyadTareq224)
 <!-- isiakaabd contribution -->
 - [@ISIAKA ABDULAHI](https://github.com/isiakaabd)
+<!-- ArimoroOlamilekan contribution -->
+- [@Arimoro Olamilekan](https://github.com/Lexitar32)
