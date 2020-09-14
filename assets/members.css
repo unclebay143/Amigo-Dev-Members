@@ -60,7 +60,7 @@
   background: rgb(85, 2, 85);
   color: white;
   padding: 1rem;
-  flex-direction: column;
+  /* flex-direction: column; */
   border-radius: 5px;
 }
 
@@ -80,11 +80,13 @@
 }
 
 .ekeso-quote{
+  position: relative;
+  bottom: 23px;
   text-align: center;
 }
 
 .ekeso-quote p{
-  margin-bottom: 0;
+  margin-bottom: -2rem;
 }
 
 .ekeso-quote p span{
