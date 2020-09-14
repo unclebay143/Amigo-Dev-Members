@@ -54,6 +54,39 @@ img{
 }
 /* UncleBay styling Ends here go ahead and create yours */
 
+/* Ekeso Start */
+.ekeso{
+  background: rgb(85, 2, 85);
+  color: white;
+  padding: 1rem;
+  flex-direction: column;
+  border-radius: 5px;
+}
+
+.ekeso h1{
+  margin-top: 0;
+}
+
+.ekeso .social-link a{
+  border-radius: 50%;
+  color: rgb(85, 2, 85);
+  bottom: 11px;
+}
+
+.ekeso .social-link a:hover{
+  background: rgb(85, 2, 85);
+  color: white;
+}
+
+.ekeso-quote{
+  text-align: center;
+}
+
+.ekeso-quote p{
+  margin-bottom: 0;
+}
+
+/* Ekeso End */
 
 /* >>>>>>>>>>>>>>>  Contribution start <<<<<<<<<<<<<<<< */
 
