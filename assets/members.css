@@ -107,8 +107,9 @@
 /* Mobile View */
 /*  Do not touch here */
 @media screen and (max-width: 700px){
-    .container{
+  .container{
     margin-top: 0.8rem;
+    margin-left: 0;
   }
   .member{
     display: block;
