@@ -1,7 +1,9 @@
 /*  Do not touch here */
 
-.container {
-    margin-top: 10rem;
+.container{
+  margin-top: 10rem;
+  margin-left: 200px;
+
 }
 
 
@@ -22,6 +24,7 @@
 
 /*  Do not touch here */
 
+
 .member {
     display: flex;
     align-content: center;
@@ -38,10 +41,11 @@
 
 /*  Do not touch here */
 
-img {
-    width: 270px;
-    height: 270px;
-    border-radius: 5px;
+.member img{
+  width: 250px;
+  height: 200px;
+  border-radius: 5px;
+
 }
 
 
@@ -58,6 +62,17 @@ img {
 
 .unclebay:hover {
     opacity: 0.9;
+}
+.unclebay{
+  background: dodgerblue;
+  border-radius: 5px;
+  color: #fff;
+  cursor: cell;
+  opacity: 0.9;
+}
+.unclebay:hover{
+  opacity: 0.5;
+
 }
 
 .unclebay .social-link a:hover {
@@ -78,12 +93,17 @@ img {
 
 /* Ekeso Start */
 
+
 .ekeso {
     background: rgb(85, 2, 85);
     color: white;
     padding: 1rem;
     flex-direction: column;
     border-radius: 5px;
+
+  /* flex-direction: column; */
+  border-radius: 5px;
+
 }
 
 .ekeso h1 {
@@ -101,12 +121,25 @@ img {
     color: white;
 }
 
-.ekeso-quote {
-    text-align: center;
+
+
+
+.ekeso-quote{
+  position: relative;
+  bottom: 23px;
+  text-align: center;
 }
 
-.ekeso-quote p {
-    margin-bottom: 0;
+.ekeso-quote p{
+  margin-bottom: -2rem;
+}
+
+.ekeso-quote p span{
+  display: block;
+  text-align: right;
+  font-size: 18px;
+  font-weight: 400;
+
 }
 
 
@@ -165,15 +198,15 @@ img {
 
 /*  Do not touch here */
 
-@media screen and (max-width: 700px) {
-    .container {
-        margin-top: 0.8rem;
-    }
-    .member {
-        display: block;
-        width: 330px;
-        margin: 0 auto;
-        margin-top: 23px;
-        text-align: center;
-    }
-}
+@media screen and (max-width: 700px){
+  .container{
+    margin-top: 0.8rem;
+    margin-left: 0;
+  }
+  .member{
+    display: block;
+    width: 330px;
+    margin: 0 auto;
+    margin-top: 23px;
+    text-align: center;
+  }
