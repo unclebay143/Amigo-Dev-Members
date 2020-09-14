@@ -73,9 +73,6 @@ img {
 /* UncleBay styling Ends here go ahead and create yours */
 
 
-/* Ekeso End */
-
-
 /* >>>>>>>>>>>>>>>  Contribution start <<<<<<<<<<<<<<<< */
 
 
@@ -113,6 +110,9 @@ img {
 }
 
 
+/* Ekeso End */
+
+
 /* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
 
 
@@ -123,7 +123,7 @@ img {
 
 .remlad {
     background: black;
-    margin-right: 20px;
+    margin-left: 20px;
     color: white;
     padding: 1rem;
     flex-direction: column;
