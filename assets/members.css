@@ -1,6 +1,7 @@
 /*  Do not touch here */
 .container{
   margin-top: 10rem;
+  margin-left: 200px;
 }
 /*  Do not touch here */
 .social-link a{
@@ -23,27 +24,27 @@
   float: left;
   width: 25%;
   margin-bottom: 16px;
+  margin-right: 40px;
   padding: 0 8px;
   flex-wrap: wrap;
   background: rgba(80, 163, 11, 0.3);
 }
 /*  Do not touch here */
-img{
-  width: 270px;
-  height: 270px;
+.member img{
+  width: 250px;
+  height: 200px;
   border-radius: 5px;
 }
 /* UncleBay styling go ahead and create yours */
 .unclebay{
   background: dodgerblue;
   border-radius: 5px;
-  margin-right: 20px;
   color: #fff;
-  opacity: 0.5;
   cursor: cell;
+  opacity: 0.9;
 }
 .unclebay:hover{
-  opacity: 0.9;
+  opacity: 0.5;
 }
 .unclebay .social-link a:hover{
   background: #333;
