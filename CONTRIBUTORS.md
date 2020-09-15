@@ -24,3 +24,5 @@
 - [@Glory Ogbebor](https://github.com/Osaiteh)
 <!--Epaphroditus Contribution-->
 - [@Epaphroditus Gift](https://github.com/Mamaaki)
+<!-- Adeyemi Contribution -->
+- [@Adeyemi Buhari Opeyemi](https://githuh.com/opeyemi44)
