@@ -303,6 +303,30 @@
 }
 
 /******** Bastocurrency End ***************/
+
+
+/********************OSAITEH start ********************/
+#osaiteh{
+  background-color: rgba(255, 68, 0, 0.658);
+  border: 3px solid orangered;
+  margin: 30px;
+}
+#osaiteh a{
+color: orangered;
+border: 2px solid orangered;
+}
+#osaiteh h1 h3{
+  color: #333;
+  -webkit-text-stroke: 1px black;
+}
+.osaiteh-quote{
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+/********************OSAITEH end ********************/
+
+
 /* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
 /* Mobile View */
 
