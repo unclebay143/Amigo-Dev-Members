@@ -310,6 +310,8 @@
   background-color: rgba(255, 68, 0, 0.658);
   border: 3px solid orangered;
   margin: 30px;
+  display: flex;
+  flex-direction: column;
 }
 #osaiteh a{
 color: orangered;
