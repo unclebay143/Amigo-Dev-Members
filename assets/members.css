@@ -246,6 +246,64 @@
 
 /* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
 
+/* >>>>>>>>>>>>>>>  Contribution start <<<<<<<<<<<<<<<< */
+
+
+/* Maureen Start */
+
+
+.maureen {
+  background: teal;
+  color: white;
+  padding: 1rem;
+  flex-direction: column;
+  border-radius: 5px;
+  border-radius: 5px;
+
+}
+
+.maureen h1 {
+  margin-top: 0;
+}
+
+.maureen .social-link a {
+  border-radius: 50%;
+  color: teal;
+  bottom: 11px;
+}
+
+.maureen .social-link a:hover {
+  background: teal;
+  color: white;
+}
+
+.maureen-quote{
+position: relative;
+bottom: 23px;
+text-align: center;
+}
+
+.maureen-quote h3{
+  padding-top:20px;
+}
+
+.maureen-quote p{
+margin-bottom: -2rem;
+}
+
+.maureen-quote p span{
+display: block;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+
+
+/* Maureen End */
+
+
+/* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
+
 
 
 /* >>>>>>>>>>>>>>>  Contribution start <<<<<<<<<<<<<<<< */
