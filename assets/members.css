@@ -145,6 +145,60 @@
 
 /* Ekeso End */
 
+/* Ziyad Start */
+
+
+.ziyad {
+    background: rgb(85, 2, 85);
+    color: white;
+    padding: 1rem;
+    flex-direction: column;
+    border-radius: 5px;
+
+  /* flex-direction: column; */
+  border-radius: 5px;
+
+}
+
+.ziyad h1 {
+    margin-top: 0;
+}
+
+.ziyad .social-link a {
+    border-radius: 50%;
+    color: rgb(85, 2, 85);
+    bottom: 11px;
+}
+
+.ziyad .social-link a:hover {
+    background: rgb(85, 2, 85);
+    color: white;
+}
+
+
+
+
+.ziyad-quote{
+  position: relative;
+  bottom: 23px;
+  text-align: center;
+}
+
+.ziyad-quote p{
+  margin-bottom: -2rem;
+}
+
+.ziyad-quote p span{
+  display: block;
+  text-align: right;
+  font-size: 18px;
+  font-weight: 400;
+
+}
+
+
+/* Ziyad End */
+
 
 /* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
 
@@ -251,6 +305,89 @@ font-weight: 400;
 /* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
 
 
+
+/* >>>>>>>>>>>>>>>  Contribution start <<<<<<<<<<<<<<<< */
+
+/******** Bastocurrency start *************/
+#bastocurrency{
+ border:hidden;
+ background:maroon;
+ border-radius:10px;
+  /*padding:10px;*/
+}
+#bastocurrency h1{
+  font-family:poppins;
+  font-size:20px;
+  color:white;
+}
+#bastocurrency img{
+  border:4px solid white;
+}
+#bastocurrency img:hover{
+  -webkit-filter: opacity(.90);
+  filter: opacity(.90);
+  cursor:help;
+}
+#bastocurrency .social-link{
+  border-radius:50%;
+}
+#bastocurrency .social-link a{
+  border-radius:50%;
+  box-shadow:2px 2px 15px black;
+  padding:15px;
+}
+#bastocurrency .social-link a:hover{
+  background-color:maroon;
+  transition:900ms;
+}
+#bastocurrency .social-link a i{
+  font-size:28px;
+  color:maroon;
+}
+#bastocurrency .bastocurrency-quote h3{
+  font-family:poppins;
+  font-size:18px;
+  text-align:center;
+  color:white;
+  text-shadow:2px 1px 1px black;
+}
+#bastocurrency .bastocurrency-quote p{
+  font-family:poppins;
+  font-size:14px;
+  text-align:center;
+  font-style:italic;
+  color:white;
+  text-shadow:2px 1px 1px black;
+}
+
+/******** Bastocurrency End ***************/
+
+
+/********************OSAITEH start ********************/
+#osaiteh{
+  background-color: rgba(255, 68, 0, 0.658);
+  border: 3px solid orangered;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+}
+#osaiteh a{
+color: orangered;
+border: 2px solid orangered;
+}
+#osaiteh h1 h3{
+  color: #333;
+  -webkit-text-stroke: 1px black;
+}
+.osaiteh-quote{
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+/********************OSAITEH end ********************/
+
+
+/* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
 /* Mobile View */
 
 

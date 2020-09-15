@@ -1,5 +1,7 @@
 # Amigo-Dev-Community
-Official Website Repo For Amigo Junior Developer Community
+Official Website Repo For Amigo Junior Developer Community  
+
+https://github.com/unclebay143/Amigo-Dev-Community  
 
 Challenge #1
 Description: Now that you've added your name to the contributors.md file, its time to change some actual code.  
