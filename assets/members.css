@@ -145,6 +145,60 @@
 
 /* Ekeso End */
 
+/* Ziyad Start */
+
+
+.ziyad {
+    background: rgb(85, 2, 85);
+    color: white;
+    padding: 1rem;
+    flex-direction: column;
+    border-radius: 5px;
+
+  /* flex-direction: column; */
+  border-radius: 5px;
+
+}
+
+.ziyad h1 {
+    margin-top: 0;
+}
+
+.ziyad .social-link a {
+    border-radius: 50%;
+    color: rgb(85, 2, 85);
+    bottom: 11px;
+}
+
+.ziyad .social-link a:hover {
+    background: rgb(85, 2, 85);
+    color: white;
+}
+
+
+
+
+.ziyad-quote{
+  position: relative;
+  bottom: 23px;
+  text-align: center;
+}
+
+.ziyad-quote p{
+  margin-bottom: -2rem;
+}
+
+.ziyad-quote p span{
+  display: block;
+  text-align: right;
+  font-size: 18px;
+  font-weight: 400;
+
+}
+
+
+/* Ziyad End */
+
 
 /* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
 
