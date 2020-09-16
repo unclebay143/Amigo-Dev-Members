@@ -25,4 +25,10 @@
 <!--Epaphroditus Contribution-->
 - [@Epaphroditus Gift](https://github.com/Mamaaki)
 <!-- Adeyemi Contribution -->
+<<<<<<< HEAD
 - [@Adeyemi Buhari Opeyemi](https://github.com/opeyemi44)
+=======
+- [@Adeyemi Buhari Opeyemi](https://githuh.com/opeyemi44)
+<!-- Emmanuel's Contribution-->
+- [@EmanuelOne](https://github.com/EmanuelOne)
+>>>>>>> master
