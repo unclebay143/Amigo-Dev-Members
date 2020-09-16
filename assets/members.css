@@ -416,7 +416,11 @@ border: 2px solid orangered;
 
 }
 #bbanks a i{
-  color:rgb(0,0,0)
+  color:rgb(0,0,0);
+  
+}
+#bbanks a{
+  border-radius: 50%;
 }
 
 /* <<<<<<<<<<<<<<<< bbanks end >>>>>>>>>>>>>>> */
