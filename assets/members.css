@@ -469,6 +469,45 @@ border: 2px solid orangered;
 /********************OSAITEH end ********************/
 
 
+/********************BBANKS start ********************/
+#bbanks{
+  background:rgb(0, 0, 0);
+  border-radius: 10%;
+  font-family: 'Courier New', Courier, monospace;
+  margin:1% 5% 9% 5%;
+  
+
+}
+#bbanks img{
+  border:5px solid white;
+
+}
+#bbanks h1{
+  font-size:1.5rem;
+  color:#fff
+}
+#bbanks,p{
+  font-size:0.8rem;
+  color:#fff;
+  font-style: italic;
+}
+#bbanks,h3{
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+
+}
+#bbanks a i{
+  color:rgb(0,0,0);
+  
+}
+#bbanks a{
+  border-radius: 50%;
+}
+
+/* <<<<<<<<<<<<<<<< bbanks end >>>>>>>>>>>>>>> */
+
+
 /* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
 /* Mobile View */
 
