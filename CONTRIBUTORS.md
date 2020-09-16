@@ -26,3 +26,5 @@
 - [@Epaphroditus Gift](https://github.com/Mamaaki)
 <!-- Adeyemi Contribution -->
 - [@Adeyemi Buhari Opeyemi](https://githuh.com/opeyemi44)
+<!-- Emmanuel's Contribution-->
+- [@EmanuelOne](https://github.com/EmanuelOne)
