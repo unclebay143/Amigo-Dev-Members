@@ -301,6 +301,88 @@ font-weight: 400;
 
 /* Maureen End */
 
+/* EmanuelOne Start */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300;1,400&display=swap');
+#EmanuelOne{
+ border:hidden;
+ background:rgb(1, 68, 155);
+ border-radius:10px;
+  /*padding:10px;*/
+  font-family: 'Raleway', sans-serif;
+
+}
+#EmanuelOne h1{
+  font-size:20px;
+  color:white;
+}
+#EmanuelOne img{
+  border:4px solid white;
+}
+#EmanuelOne img:hover{
+  -webkit-filter: opacity(.90);
+  filter: opacity(.90);
+  cursor:help;
+}
+#EmanuelOne .social-link{
+  border-radius:50%;
+}
+.card-e{
+  color:#fff !important
+  ;
+}
+.h{
+  background-color:rgb(1, 68, 155) !important ;
+  border: none !important;
+}
+#EmanuelOne .social-link a{
+  width: 20px;
+  height: 20px;
+  border-radius:10px;
+  background-color:#000;
+  box-shadow:2px 2px 15px black;
+  padding:10px;
+  border: none;
+
+}
+#EmanuelOne .social-link a:hover{
+  background-color:#000;
+  color: #fff;
+  transition:900ms;
+  border: #333 ridge 2px;
+
+}
+.h:hover{
+  border: rgb(1, 32, 73) ridge 2px !important;
+
+}
+#EmanuelOne .social-link a i{
+  font-size:28px;
+  color: #fff;
+  
+
+}
+#EmanuelOne .social-link a i:hover{
+  color: #fff !important;
+}
+
+#EmanuelOne .EmanuelOne-quote h3{
+  
+  font-size:18px;
+  text-align:center;
+  color:white;
+  text-shadow:2px 1px 1px black;
+}
+#EmanuelOne .EmanuelOne-quote p{
+  font-weight: lighter;
+  font-size:14px;
+  text-align:center;
+  font-style:italic;
+  color:white;
+  text-shadow:2px 1px 1px black;
+}
+.EmanuelOne-quote span{
+  font-weight: 700;
+}
 
 /* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
 
@@ -405,3 +487,4 @@ border: 2px solid orangered;
     margin-top: 23px;
     text-align: center;
   }
+}
