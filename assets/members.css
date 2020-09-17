@@ -246,6 +246,146 @@
 
 /* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
 
+/* >>>>>>>>>>>>>>>  Contribution start <<<<<<<<<<<<<<<< */
+
+
+/* Maureen Start */
+
+
+.maureen {
+  background: teal;
+  color: white;
+  padding: 1rem;
+  flex-direction: column;
+  border-radius: 5px;
+  border-radius: 5px;
+
+}
+
+.maureen h1 {
+  margin-top: 0;
+}
+
+.maureen .social-link a {
+  border-radius: 50%;
+  color: teal;
+  bottom: 11px;
+}
+
+.maureen .social-link a:hover {
+  background: teal;
+  color: white;
+}
+
+.maureen-quote{
+position: relative;
+bottom: 23px;
+text-align: center;
+}
+
+.maureen-quote h3{
+  padding-top:20px;
+}
+
+.maureen-quote p{
+margin-bottom: -2rem;
+}
+
+.maureen-quote p span{
+display: block;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+
+
+/* Maureen End */
+
+/* EmanuelOne Start */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300;1,400&display=swap');
+#EmanuelOne{
+ border:hidden;
+ background:rgb(1, 68, 155);
+ border-radius:10px;
+  /*padding:10px;*/
+  font-family: 'Raleway', sans-serif;
+
+}
+#EmanuelOne h1{
+  font-size:20px;
+  color:white;
+}
+#EmanuelOne img{
+  border:4px solid white;
+}
+#EmanuelOne img:hover{
+  -webkit-filter: opacity(.90);
+  filter: opacity(.90);
+  cursor:help;
+}
+#EmanuelOne .social-link{
+  border-radius:50%;
+}
+.card-e{
+  color:#fff !important
+  ;
+}
+.h{
+  background-color:rgb(1, 68, 155) !important ;
+  border: none !important;
+}
+#EmanuelOne .social-link a{
+  width: 20px;
+  height: 20px;
+  border-radius:10px;
+  background-color:#000;
+  box-shadow:2px 2px 15px black;
+  padding:10px;
+  border: none;
+
+}
+#EmanuelOne .social-link a:hover{
+  background-color:#000;
+  color: #fff;
+  transition:900ms;
+  border: #333 ridge 2px;
+
+}
+.h:hover{
+  border: rgb(1, 32, 73) ridge 2px !important;
+
+}
+#EmanuelOne .social-link a i{
+  font-size:28px;
+  color: #fff;
+  
+
+}
+#EmanuelOne .social-link a i:hover{
+  color: #fff !important;
+}
+
+#EmanuelOne .EmanuelOne-quote h3{
+  
+  font-size:18px;
+  text-align:center;
+  color:white;
+  text-shadow:2px 1px 1px black;
+}
+#EmanuelOne .EmanuelOne-quote p{
+  font-weight: lighter;
+  font-size:14px;
+  text-align:center;
+  font-style:italic;
+  color:white;
+  text-shadow:2px 1px 1px black;
+}
+.EmanuelOne-quote span{
+  font-weight: 700;
+}
+
+/* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
+
 
 
 /* >>>>>>>>>>>>>>>  Contribution start <<<<<<<<<<<<<<<< */
@@ -310,6 +450,8 @@
   background-color: rgba(255, 68, 0, 0.658);
   border: 3px solid orangered;
   margin: 30px;
+  display: flex;
+  flex-direction: column;
 }
 #osaiteh a{
 color: orangered;
@@ -325,6 +467,45 @@ border: 2px solid orangered;
   font-style: italic;
 }
 /********************OSAITEH end ********************/
+
+
+/********************BBANKS start ********************/
+#bbanks{
+  background:rgb(0, 0, 0);
+  border-radius: 10%;
+  font-family: 'Courier New', Courier, monospace;
+  margin:1% 5% 9% 5%;
+  
+
+}
+#bbanks img{
+  border:5px solid white;
+
+}
+#bbanks h1{
+  font-size:1.5rem;
+  color:#fff
+}
+#bbanks,p{
+  font-size:0.8rem;
+  color:#fff;
+  font-style: italic;
+}
+#bbanks,h3{
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+
+}
+#bbanks a i{
+  color:rgb(0,0,0);
+  
+}
+#bbanks a{
+  border-radius: 50%;
+}
+
+/* <<<<<<<<<<<<<<<< bbanks end >>>>>>>>>>>>>>> */
 
 
 /* <<<<<<<<<<<<<<<< Contribution end >>>>>>>>>>>>>>> */
@@ -345,3 +526,4 @@ border: 2px solid orangered;
     margin-top: 23px;
     text-align: center;
   }
+}
