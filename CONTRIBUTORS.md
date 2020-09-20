@@ -22,3 +22,5 @@
 - [@Arimoro Olamilekan](https://github.com/Lexitar32)
 <!--Osaiteh Contribution-->
 - [@Glory Ogbebor](https://github.com/Osaiteh)
+<!--DavidAlloy-->
+[@David Alloy](https://github.com/davidalloy)
