@@ -22,6 +22,7 @@
 - [@Arimoro Olamilekan](https://github.com/Lexitar32)
 <!--Osaiteh Contribution-->
 - [@Glory Ogbebor](https://github.com/Osaiteh)
+<<<<<<< HEAD
 <!--Epaphroditus Contribution-->
 - [@Epaphroditus Gift](https://github.com/Mamaaki)
 <!-- Adeyemi Contribution -->
@@ -32,3 +33,7 @@
 <!-- Emmanuel's Contribution-->
 - [@EmanuelOne](https://github.com/EmanuelOne)
 >>>>>>> master
+=======
+<!--DavidAlloy-->
+[@David Alloy](https://github.com/davidalloy)
+>>>>>>> david
