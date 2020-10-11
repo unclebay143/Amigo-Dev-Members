@@ -36,3 +36,7 @@
 <!-- Malik Contribution -->
 
 - [@Malik Mukhtar](https://github.com/malikmukhtar)
+
+<!-- Qudus Contribution -->
+
+- [@Abdul Qudus Akindele](https://github.com/horlajay)
